@@ -78,10 +78,6 @@
 ---
 
 <div align="center">
-  
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MarcoSchenker&color=brightgreen&style=for-the-badge)
 

@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-🎓 **Software Engineering Student** passionate about building amazing things with code  
+🎓 **Software Engineering Student**
 💻 Currently working on **personal and academic projects**  
 
 ---

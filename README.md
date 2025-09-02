@@ -80,6 +80,4 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MarcoSchenker&color=brightgreen&style=for-the-badge)
-
 </div>

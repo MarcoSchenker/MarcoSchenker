@@ -11,7 +11,6 @@
 
 💻 Currently working on **personal and academic projects**  
 
-<br>
 
 ## 🌐 Connect With Me
 
@@ -21,12 +20,21 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco.schenker_/)
 
 
+## 🏢 Organizations
 
-<br>
+<p align="left">
+  <a href="https://github.com/grupo6-ingsis" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/MarcoSchenker/MarcoSchenker/main/assets/grupo6-rounded.svg"
+      width="70"
+    />
+  </a>
+  <br>
+  <b><a href="https://github.com/grupo6-ingsis">Printscript + Snippet Searcher</a></b>
+</p>
+
 
 ## 💻 Tech Stack
-
-
 
 ### 🚀 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,11 +66,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoSchenker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSchenker&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoSchenker&theme=tokyonight" alt="GitHub Streak" />

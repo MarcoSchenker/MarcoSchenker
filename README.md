@@ -25,14 +25,16 @@
 <p align="left">
   <a href="https://github.com/grupo6-ingsis" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/MarcoSchenker/MarcoSchenker/main/assets/grupo6-rounded.svg"
+      src="https://github.com/grupo6-ingsis.png"
       width="70"
+      height="70"
+      style="border-radius: 50%; object-fit: cover;"
+      alt="Grupo6 INGSIS"
     />
   </a>
   <br>
   <b><a href="https://github.com/grupo6-ingsis">Printscript + Snippet Searcher</a></b>
 </p>
-
 
 ## 💻 Tech Stack
 

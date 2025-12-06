@@ -1,0 +1,8 @@
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="circleView">
+      <circle cx="30" cy="30" r="30" />
+    </clipPath>
+  </defs>
+  <image href="https://github.com/grupo6-ingsis.png" width="60" height="60" clip-path="url(#circleView)" />
+</svg>
